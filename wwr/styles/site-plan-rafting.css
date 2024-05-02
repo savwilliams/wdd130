@@ -6,10 +6,10 @@ Fonts are separated by a & */
 
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #358dab;
-  --secondary-color: #225fa1;
-  --accent1-color: #EA7317;
-  --accent2-color: #FEC601;
+  --primary-color: #428DA5;
+  --secondary-color: #225FA1;
+  --accent1-color: #467C3E;
+  --accent2-color: #9AC290;
 
   /* change the values below to your chosen font(s) */
   --heading-font: "Shadows Into Light";
@@ -20,11 +20,11 @@ Fonts are separated by a & */
   --headline-color-on-color: white; /* headlines on a colored background */ 
   --paragraph-color-on-white: #225FA1; /* paragraph text on a white background */ 
   --paragraph-color-on-color: white; /* paragraph text on a colored background */ 
-  --paragraph-background-color: #358dab;
+  --paragraph-background-color: #428DA5;
   --nav-link-color: #225FA1;
-  --nav-background-color: #FEC601;
+  --nav-background-color: #9AC290;
   --nav-hover-link-color: white;
-  --nav-hover-background-color: #225FA1;
+  --nav-hover-background-color: #467C3E;
 }
 
 
