@@ -19,10 +19,13 @@ body{
     display: table;
     margin: 0 auto;
 }
-#heading{
+#heading{    
     font: bolder;
     color: white;
     font-family: sans-serif, 'trebuchet MS', Verdana;
+}
+#heading:hover{
+    color: black;
 }
 #quote1{
     color: white;
