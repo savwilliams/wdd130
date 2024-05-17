@@ -1,0 +1,65 @@
+
+main{
+    max-width: 200px;
+    margin: 0 auto;
+    text-align: center
+}
+html, body {
+    height: 100%;
+    width: 50%;
+}
+html {
+    display: table;
+    margin: auto;
+    }
+body{
+    background-color: #5DA1D7;
+    text-align: center;
+    padding: 5%;
+    display: table;
+    margin: 0 auto;
+}
+#heading{
+    font: bolder;
+    color: white;
+    font-family: sans-serif, 'trebuchet MS', Verdana;
+}
+#quote1{
+    color: white;
+    font-size: 14px;
+    line-height: 1.8;
+    font-family: 'Times New Roman', Georgia, Times, serif;
+}
+#name{
+    color: white;
+    font-weight: 700;
+    font-family: sans-serif, 'trebuchet MS', Verdana;
+}
+#heroimage {
+    width: 200px;
+}
+#ol{
+    width: 400px;
+    margin: 20;
+    text-align: left;
+    padding: 5%;
+    color: black;
+    font-weight: 800;
+    font-family: sans-serif, 'trebuchet MS', verdana;
+    font-size: 15px;
+    line-height: 2.3;
+}
+#quote2{
+    color: white;
+    font-size: 36px;
+    font-family: 'Times New Roman', Georgia, Times, serif;
+}
+p.church-name{
+    font-family: sans-serif, 'trebuchet MS', Verdana;
+    font-weight: 600;
+    color: black;
+    font-size: 15px;
+}
+#church-name-spacing{
+    margin-bottom: -15px;
+}
