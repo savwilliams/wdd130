@@ -5,6 +5,8 @@
   --accent2-color: #9AC290; light green
 */
 @import url('https://fonts.googleapis.com/css2?family=Mulish&family=Shadows+Into+Light&display=swap');
+
+/* -----------------Home Page------------------------ */
 #content {
 max-width: 1600px;
 margin: 0 auto;
@@ -204,6 +206,33 @@ footer .social img{
     grid-row: 5/8;
     box-shadow: 5px 5px 10px #5f5e5e;
 }
+
+
+
+
+/* -----------------Page 2------------------------ */
+
+.page2-main{    
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 5%;    
+}
+.page2-title{
+    font-size: 45px;
+}
+.section1{
+    text-align: left;
+    padding-bottom: 10px;
+    
+}
+#section-head{
+    padding-bottom: 5%;
+}
+
+
+
+
+/* -----------------Media Query-------------------- */
 
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
